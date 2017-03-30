@@ -1,2 +1,2 @@
 # leeboya.github.io
-blog
+# This is a old blog
